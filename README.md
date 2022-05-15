@@ -15,4 +15,11 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
-python < scriptname.py >
+Use the terminal or an Anaconda Prompt for the following steps:
+
+   1.Create the environment from the environment.yml file:
+        conda env create -f env.yml
+      
+   2. Activate the new environment: conda activate myenv
+  
+   3. python nonstandardcode.py
